@@ -6,7 +6,7 @@ null,
 {"id":4,"expanded":false,"name":"Bedroom","order":3,"parentId":3,"scrollX":819,"scrollY":445.5},
 {"id":5,"expanded":true,"name":"School Hall","order":5,"parentId":2,"scrollX":819,"scrollY":437.5},
 {"id":6,"expanded":false,"name":"School Classroom","order":6,"parentId":5,"scrollX":819,"scrollY":445.5},
-{"id":7,"expanded":false,"name":"Ruined Town","order":8,"parentId":9,"scrollX":811,"scrollY":1482.5},
+{"id":7,"expanded":false,"name":"Ruined Town","order":8,"parentId":9,"scrollX":811,"scrollY":437.5},
 null,
-{"id":9,"expanded":true,"name":"Town","order":7,"parentId":1,"scrollX":1349,"scrollY":1138.5}
+{"id":9,"expanded":true,"name":"Town","order":7,"parentId":1,"scrollX":811,"scrollY":1157.5}
 ]
