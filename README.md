@@ -3,5 +3,5 @@ In this game, players step into the shoes of a young girl who faces various bull
 
 
 # To Play Girl Power!:
-# Access GirlPower --> GirlPower --> GirlPower --> []Play_GirlPower_Game
+# Access GirlPower --> []Play_GirlPower_Game
 # (The executable was only made on and tested on Windows machines, so it might not work on Mac.)
